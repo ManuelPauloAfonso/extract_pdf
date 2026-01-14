@@ -1,4 +1,4 @@
-#  Extract PDF - RAG-Powered Document Intelligence
+#  Extract PDF  RAG Powered Document Intelligence
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![LangChain](https://img.shields.io/badge/LangChain-Enabled-green.svg)](https://www.langchain.com/)
