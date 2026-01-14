@@ -82,7 +82,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **GitHub**: [ManuelPauloAfonso/extract_pdf](https://github.com/ManuelPauloAfonso/extract_pdf)
 - **LinkedIn**: [Manuel Paulo Afonso](https://www.linkedin.com/in/manuelpauloafonso/)
 - **Issues**: [GitHub Issues](https://github.com/ManuelPauloAfonso/extract_pdf/issues)
 
